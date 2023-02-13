@@ -1,0 +1,12 @@
+/server/node_modules
+/server/package-lock.json
+/server/.env
+/server/.dockerignore
+/server/Dockerfile
+
+/server/dist
+/client/node_modules
+/client/package-lock.json
+/client/.env
+/client/.dockerignore
+/client/Dockerfile
